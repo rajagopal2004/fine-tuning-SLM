@@ -1,0 +1,200 @@
+What is the total number of customers in the system?
+How many of the customers are located in a specific region (e.g., California)?
+What is the average order value for all customers?
+How many customers have made more than 10 purchases in the last year?
+What are the most frequently purchased product categories among customers?
+Are there any missing fields or inconsistencies in the customer data (e.g., missing email addresses or invalid phone numbers)?
+How can we improve the data quality of customer information to ensure accurate analysis?
+What is the distribution of customer demographics (e.g., age, gender, income level)?
+Can we identify any customer segments with distinct purchasing behaviors?
+How can we leverage customer data to personalize marketing campaigns and promotions?
+How often do customers update their addresses?
+Can we identify any patterns in customer relocation (e.g., movement from urban to rural areas)?
+How does customer location impact their purchasing behavior?
+Is there a correlation between customer lifetime value and the number of address changes?
+Can we use customer address history to improve delivery routes and logistics?
+How can we ensure the accuracy and completeness of customer address information across different data sources?
+Are there any security concerns associated with storing customer address history data?
+How can we leverage customer address history to optimize delivery options and shipping costs?
+Can we identify customers who have a high risk of package delivery failure due to frequent address changes?
+How can we use customer address history to improve the efficiency of returns and exchanges?
+What is the total number of customers enrolled in the loyalty program?
+How many tiers or levels does the loyalty program have?
+What are the benefits and rewards associated with each loyalty program tier?
+How does customer participation in the loyalty program impact their purchase behavior?
+Can we optimize the loyalty program to increase customer engagement and retention?
+How can we track the effectiveness of the loyalty program in driving sales and customer loyalty?
+Are there any customers who are gaming the loyalty program (e.g., abusing loopholes or fraudulent activity)?
+How can we personalize the loyalty program to better cater to the needs and preferences of different customer segments?
+Can we integrate the loyalty program with other marketing initiatives to create a more cohesive customer experience?
+How can we measure the return on investment (ROI) of the loyalty program?
+How many product categories are there in the system?
+What are the different attributes associated with each product category (e.g., size, color, material)?
+Can we use product category attributes to improve product search functionality and user experience?
+How can we leverage product category attributes to create more targeted product recommendations for customers?
+Is there a standardized format for defining and storing product category attributes?
+How are product categories organized within the product hierarchy (e.g., parent-child relationships)?
+Can we identify any gaps or inconsistencies in the product category hierarchy?
+How does the product category hierarchy impact product navigation and browsing behavior?
+Can we optimize the product category hierarchy to improve product discoverability and sales?
+Is the product category hierarchy flexible enough to accommodate new product categories and subcategories?
+What are the pricing strategies for different product categories?
+How often do product prices change within each category?
+Are there any patterns or trends in product category pricing (e.g., seasonal pricing adjustments)?
+How can we use product category pricing data to optimize profitability and competitiveness?
+Can we identify any pricing errors or inconsistencies across different product categories?
+What is the most popular product category among customers?
+How can we categorize new products into existing categories or define new categories if necessary?
+Are there any product categories with a high churn rate (i.e., customers who stop buying products from that category)?
+Can we identify any relationships between product categories (e.g., complementary products or frequently purchased together)?
+How can we use product category data to inform product development and marketing strategies?
+How are product recommendations generated for customers (e.g., based on purchase history, browsing behavior, or product attributes)?
+Can we evaluate the effectiveness of product recommendations in driving sales and customer satisfaction?
+How can we personalize product recommendations to better cater to the individual needs and preferences of each customer?
+Is there a way to incorporate real-time data (e.g., abandoned carts, product reviews) into the product recommendation engine?
+Can we A/B test different product recommendation strategies to identify the most effective approach?
+What is the purpose of the adjustment_details file?
+What information does the adjustment_details file contain?
+How are adjustments tracked in the adjustment_details file?
+Can the adjustment_details file be used to identify trends in product returns or price adjustments?
+How can the data in the adjustment_details file be used to improve inventory management?
+What does the browsing_history file tell us about customer browsing behavior?
+How long is customer browsing history stored in the browsing_history files?
+Can the browsing_history data be used to personalize product recommendations for customers?
+How can the data in the browsing_history files be used to improve website search functionality?
+Is it possible to identify abandoned carts using the browsing_history data?
+What does the browsing_history file tell us about customer browsing behavior?
+How long is customer browsing history stored in the browsing_history files?
+Can the browsing_history data be used to personalize product recommendations for customers?
+How can the data in the browsing_history files be used to improve website search functionality?
+Is it possible to identify abandoned carts using the browsing_history data?
+What specific customer activities are tracked in the customer_activity files?
+How can the data in the customer_activity files be used to understand customer behavior and preferences?
+Is it possible to segment customers based on their activity levels using the customer_activity data?
+Can the customer_activity data be used to identify potential churn risks?
+How can the data in the customer_activity files be used to improve customer engagement?
+What specific customer activities are tracked in the customer_activity files?
+How can the data in the customer_activity files be used to understand customer behavior and preferences?
+Is it possible to segment customers based on their activity levels using the customer_activity data?
+Can the customer_activity data be used to identify potential churn risks?
+How can the data in the customer_activity files be used to improve customer engagement?
+What customer interactions are captured in the customer_interaction_fact file?
+How can the data in the customer_interaction_fact file be used to measure the effectiveness of marketing campaigns?
+Can the customer_interaction_fact data be used to identify trends in customer service inquiries?
+Is it possible to use the customer_interaction_fact data to improve customer satisfaction?
+How can the data in the customer_interaction_fact file be used to personalize the customer experience?
+What information does the customer_search file contain about customer search queries?
+How can the data in the customer_search file be used to improve product search functionality on the e-commerce platform?
+Is it possible to identify popular search terms or emerging trends using the customer_search data?
+Can the customer_search data be used to personalize product recommendations for customers?
+How can the data in the customer_search file be used to optimize the product catalog and content?
+What information does the customer_search file contain about customer search queries?
+How can the data in the customer_search file be used to improve product search functionality on the e-commerce platform?
+Is it possible to identify popular search terms or emerging trends using the customer_search data?
+Can the customer_search data be used to personalize product recommendations for customers?
+How can the data in the customer_search file be used to optimize the product catalog and content?
+What customer service metrics are tracked in the customer_service_fact file?
+How can the data in the customer_service_fact file be used to identify areas for improvement in customer service?
+Is it possible to track resolution times for customer service issues using the customer_service_fact data?
+Can the customer_service_fact data be used to measure the effectiveness of different customer service channels?
+How can the data in the customer_service_fact file be used to improve customer satisfaction with customer service?
+What types of customer support interactions are logged in the customer_support files?
+How can the data in the customer_support files be used to identify common customer support issues?
+Is it possible to track the resolution time for customer support tickets using the customer_support data?
+Can the customer_support data be used to identify areas for improvement in the customer support knowledge base?
+How can the data in the customer_support files be used to improve the efficiency of customer support operations?
+What types of customer support interactions are logged in the customer_support files?
+How can the data in the customer_support files be used to identify common customer support issues?
+Is it possible to track the resolution time for customer support tickets using the customer_support data?
+Can the customer_support data be used to identify areas for improvement in the customer support knowledge base?
+How can the data in the customer_support files be used to improve the efficiency of customer support operations?
+What inventory data is stored in the inventory_fact file?
+How can the data in the inventory_fact file be used to track stock levels and identify potential stockouts?
+Is it possible to use the inventory_fact data to optimize inventory management processes?
+Can the inventory_fact data be used to identify trends in product demand?
+How can the data in the inventory_fact file be used to improve product availability for customers?
+What marketing campaign data is tracked in the marketing_fact file?
+How can the data in the marketing_fact file be used to measure the return on investment (ROI) of marketing campaigns?
+Is it possible to identify the most effective marketing channels using the marketing_fact data?
+Can the marketing_fact data be used to segment customers for targeted marketing campaigns?
+How can the data in the marketing_fact file be used to optimize marketing campaign performance?
+What operational metrics are tracked in this file, and how can they be used to improve the efficiency of e-commerce operations?
+Is there a way to segment the operational metrics data by factors such as time period, product category, or customer location?
+Can the data in this file be used to identify areas where operational bottlenecks are occurring?
+How can operational metrics be combined with other data sources, such as customer satisfaction surveys, to provide a more holistic view of e-commerce performance?
+What are some key performance indicators (KPIs) that can be calculated from the data in this file, and how can these KPIs be used to track progress towards operational goals?
+What specific details about each order are captured in this file, such as order ID, customer information, product details, and order status?
+Can the data in this file be used to track the progress of individual orders through the fulfillment process?
+How can order details be analyzed to identify trends in customer behavior, such as preferred products or shipping methods?
+Is it possible to use this data to identify and address any issues that may be causing order fulfillment delays?
+Can order details be combined with customer feedback data to identify areas where the order fulfillment process can be improved?
+What specific metrics related to order fulfillment are tracked in this file, such as fulfillment time, shipping costs, and error rates?
+How can order fulfillment data be segmented by factors such as product category, order size, or shipping method?
+Is it possible to use this data to identify correlations between fulfillment times and customer satisfaction?
+Can order fulfillment metrics be used to set benchmarks and track progress towards improving fulfillment efficiency?
+How can order fulfillment data be integrated with other data sources, such as inventory management systems, to optimize the fulfillment process?
+What information about each order is contained in this file, such as order ID, customer information, order date, and total order value?
+Can order data be used to calculate metrics such as average order value, number of orders per customer, and customer lifetime value?
+How can order details be segmented by factors such as time period, product category, or customer location to identify buying trends?
+Is it possible to use this data to identify and address any issues that may be causing order cancellations or returns?
+Can order data be used to personalize the customer experience by recommending products or promotions that are relevant to their past purchases?
+What product-specific sales data is tracked in this file, such as unit sales, revenue generated, and sales trends over time?
+How can product sales data be segmented by factors such as product category, brand, or price point to identify sales patterns?
+Is it possible to use this data to identify which products are most profitable or which are experiencing declining sales?
+Can product sales data be used to forecast future demand and optimize inventory levels?
+How can product sales data be integrated with customer reviews and ratings to provide a more comprehensive view of product performance?
+What information about customer reviews is captured in these files, such as product rating, review text, and reviewer demographics?
+How can review data be analyzed to identify trends in customer sentiment and satisfaction with different products?
+Is it possible to use this data to identify common customer pain points or areas where product improvement is needed?
+Can review data be used to generate sentiment analysis reports to track changes in customer sentiment over time?
+How can review data be integrated with other data sources, such as product sales data, to provide a more holistic view of product performance?
+What information about customer reviews is captured in these files, such as product rating, review text, and reviewer demographics?
+How can review data be analyzed to identify trends in customer sentiment and satisfaction with different products?
+Is it possible to use this data to identify common customer pain points or areas where product improvement is needed?
+Can review data be used to generate sentiment analysis reports to track changes in customer sentiment over time?
+How can review data be integrated with other data sources, such as product sales data, to provide a more holistic view of product performance?
+What sales data is tracked in this file, such as total sales amount, sales by product category, and sales by region?
+How can sales data be segmented by factors such as time period, product category, or customer location to identify sales trends?
+Is it possible to use this data to set sales targets and track progress towards achieving those targets?
+Can sales data be combined with marketing campaign data to measure the effectiveness of different marketing initiatives?
+How can sales data be used to identify areas where promotional pricing or discounts can be used to boost sales?
+What is the total revenue generated from sales transactions over the past year, segmented by product category and customer region?
+Can you identify sales transactions with a total order value exceeding a specific threshold (e.g., $500) and analyze the customer demographics and product categories associated with these transactions?
+How can we calculate the average order value and number of items purchased per transaction, segmented by customer segment (e.g., new vs. returning) and payment method?
+For sales transactions with missing information (e.g., customer email address), what is the proportion of missing data and how does it impact our ability to analyze customer behavior and purchase patterns?
+Can we identify trends in sales transactions over time, such as seasonality or the impact of marketing campaigns, by analyzing factors like total revenue, number of transactions, and average order value?
+What are the most common shipping methods chosen by customers, and how does the selection vary depending on factors like order value, customer location, and product category?
+How can we analyze the impact of different shipping methods (e.g., standard vs. expedited) on shipping costs, delivery times, and customer satisfaction?
+For orders with missing shipping details (e.g., delivery date), can we impute this information based on historical data or customer location to improve the accuracy of our analysis?
+What is the average shipping cost per order, segmented by customer region, order value, and chosen shipping method?
+Can we identify trends in shipping times over different time periods (e.g., weekdays vs. weekends, holidays) and analyze the factors that contribute to these variations?
+How can we analyze the lead times for products from different suppliers, and how do these lead times impact inventory levels and order fulfillment times?
+What is the cost of goods sold (COGS) for each product category, and how does this cost vary depending on supplier pricing and bulk discounts?
+Can we identify trends in supply chain metrics (e.g., inventory turnover, stockout rates) over time, and how are these trends correlated with factors like seasonality and marketing campaigns?
+For supply chain data with missing information (e.g., supplier lead time), can we estimate these values based on historical data or industry benchmarks to improve our planning and forecasting accuracy?
+How can we optimize our supply chain network to minimize transportation costs, reduce stockouts, and ensure timely delivery of products to customers?
+What are the most visited pages on our e-commerce website, and how does user traffic vary depending on factors like time of day, day of the week, and marketing campaigns?
+Can we identify user journeys and conversion rates for different product categories, and how can this information be used to improve website navigation and product recommendations?
+How long do users typically spend browsing our website before making a purchase, and are there any significant differences in browsing behavior by customer segment?
+For website performance data with missing information (e.g., user location), can we estimate this information based on IP address or other available data to gain a more comprehensive understanding of user behavior?
+How can we A/B test different website designs and functionalities to optimize the user experience and improve conversion rates?
+How many customers add products to their wishlists, and what is the average number of products per wishlist?
+Can we identify trends in product popularity based on wishlist data, and how can this information be used to inform product recommendations and marketing campaigns?
+Is there a correlation between the products added to wishlists and the products eventually purchased by customers?
+For wishlist data with missing information (e.g., product ID), can we identify the products using techniques like collaborative filtering or content-based filtering?
+How can we leverage wishlist data to personalize the shopping experience for customers and encourage them to complete purchases?
+How many customers add products to their wishlists, and what is the average number of products per wishlist?
+Can we identify trends in product popularity based on wishlist data, and how can this information be used to inform product recommendations and marketing campaigns?
+Is there a correlation between the products added to wishlists and the products eventually purchased by customers?
+For wishlist data with missing information (e.g., product ID), can we identify the products using techniques like collaborative filtering or content-based filtering?
+How can we leverage wishlist data to personalize the shopping experience for customers and encourage them to complete purchases?
+How can we segment customers based on their interactions across different touchpoints (e.g., purchases, browsing history, reviews, support tickets) and analyze their purchase behavior and product preferences?
+Can we identify common customer journeys through the website or app, starting from browsing behavior to product recommendations, cart abandonment, and ultimately purchase completion?
+Based on customer purchase history (sales_fact, sales_transaction), loyalty program participation (loyalty_program_0, loyalty_program_1), and support interactions (customer_service_fact, customer_support_0, customer_support_1), can we predict customer lifetime value and identify high-value customers for targeted marketing campaigns?
+For customers in the "customer_1" table, can we analyze their interaction data (browsing history, reviews, support tickets) to understand reasons behind customer churn and develop strategies to improve customer retention?
+How can we leverage customer data from "customer_1" (marketing_fact) to analyze the effectiveness of marketing campaigns in driving customer interactions (purchases, browsing history, reviews) and identify the most successful channels for customer acquisition?
+How effective are product recommendations (product_recommendation) based on past purchases (sales_fact, sales_transaction) and browsing history (browsing_history_0, browsing_history_1) in influencing customer behavior and increasing conversion rates?
+Can we analyze the relationship between product attributes (product, product_category), pricing information (product_category_pricing), and sales data (sales_fact, product_sales) to identify trends in product popularity, revenue generation, and potential price optimization strategies?
+Based on sales data (sales_fact, sales_transaction) and inventory levels (inventory_fact), can we optimize inventory management to minimize stockouts, reduce storage costs, and ensure product availability for customer purchases?
+How can we analyze customer reviews (reviews_0, reviews_1) to identify product strengths and weaknesses, improve product quality, and address customer concerns?
+Can we leverage data from operational_metrics_fact to identify variations in product performance metrics (e.g., defect rates, maintenance requirements) and use this information to improve product quality and optimize production processes?
