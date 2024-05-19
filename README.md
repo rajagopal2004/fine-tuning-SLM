@@ -14,4 +14,4 @@ Alex found themselves at a crossroads, uncertain if the issue lay within their o
 In this high-stakes dance between creativity and computation, Alex stood poised for the next breakthrough, ready to refine their approach and continue the quest for answers, undeterred by the challenges of the digital frontier.
 
 ---
-Make sure to change the paths accordingly,I have used kaggle notebook for running this code.
+Make sure to change the paths accordingly,Alex has used kaggle notebook for running this code.
